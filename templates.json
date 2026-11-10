@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "c": "greet",
+      "n": "शुभकामनाएं",
+      "h": "आप सभी को सादर प्रणाम",
+      "s": "जनसेवा ही हमारा धर्म है",
+      "l": "arch",
+      "th": "gold",
+      "dz": ["garland", "mandala"],
+      "f": "rozha",
+      "tags": "प्रणाम नमस्कार"
+    },
+    {
+      "c": "vote",
+      "n": "चुनाव प्रचार",
+      "h": "विकास की गाड़ी, रुके न हमारी",
+      "s": "आपका आशीर्वाद, क्षेत्र का विकास",
+      "l": "badge",
+      "th": { "a": "#00A6A6", "b": "#004E64", "c": "#FFE66D", "ink": "#00242E" },
+      "dz": ["halftone", "rays"],
+      "f": "teko"
+    },
+    {
+      "type": "image",
+      "c": "fest",
+      "occ": "दीपावली",
+      "n": "दीपावली",
+      "h": "शुभ दीपावली",
+      "s": "",
+      "bg": "https://raw.githubusercontent.com/YOUR-NAME/YOUR-REPO/main/designs/diwali-1-bg.png",
+      "fg": "https://raw.githubusercontent.com/YOUR-NAME/YOUR-REPO/main/designs/diwali-1-frame.png",
+      "f": "yatra",
+      "photo": { "x": 340, "y": 300, "w": 400, "h": 400, "shape": "circle", "anchor": "bottom" },
+      "leaders": { "x": 540, "y": 90, "r": 44, "align": "center", "ring": "#FFD54A" },
+      "texts": [
+        { "f": "head", "x": 90, "y": 130, "w": 900, "size": 96, "lines": 1, "color": "#FFD54A", "stroke": "#5A1500", "strokeW": 10 },
+        { "f": "name", "x": 90, "y": 900, "w": 900, "size": 70, "color": "#FFFFFF", "font": "h" },
+        { "f": "post", "x": 90, "y": 985, "w": 900, "size": 36, "color": "#FFE7A3", "font": "b" },
+        { "f": "contact", "x": 90, "y": 1030, "w": 900, "size": 30, "color": "#FFFFFF", "font": "b" }
+      ]
+    }
+  ]
+}
